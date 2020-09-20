@@ -1412,6 +1412,25 @@ a {
 .cid-sb3VimxeAH img {
   width: 100%;
 }
+.cid-sb7qpxt2MY {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #000000;
+}
+@media (max-width: 991px) {
+  .cid-sb7qpxt2MY .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sb7qpxt2MY .row {
+  flex-direction: row-reverse;
+}
+.cid-sb7qpxt2MY img {
+  width: 100%;
+}
+.cid-sb7qpxt2MY .mbr-description {
+  color: #fafafa;
+}
 .cid-sb73Zu1Nzs {
   padding-top: 5rem;
   padding-bottom: 5rem;
